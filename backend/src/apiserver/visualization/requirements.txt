@@ -302,7 +302,7 @@ objsize==0.6.1
     # via apache-beam
 opt-einsum==3.3.0
     # via tensorflow
-orjson==3.9.7
+orjson==3.9.15
     # via apache-beam
 overrides==6.5.0
     # via google-cloud-pubsublite
@@ -448,7 +448,7 @@ rsa==4.9
     # via
     #   google-auth
     #   oauth2client
-scikit-learn==0.24.2
+scikit-learn==1.0.1
     # via -r requirements.in
 scipy==1.10.1
     # via
