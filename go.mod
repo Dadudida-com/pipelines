@@ -45,7 +45,7 @@ require (
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.8.3
 	gocloud.dev v0.22.0
-	golang.org/x/net v0.17.0
+	golang.org/x/net v0.23.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
 	google.golang.org/grpc v1.56.3
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
